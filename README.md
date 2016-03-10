@@ -9,6 +9,8 @@
 * [Saylor](https://saylor.org)
 * [Stanford online](https://http://online.stanford.edu/)
 * [FUN](https://www.fun-mooc.fr/) (mostly in french, but some in english as well)
+* [Iversity](http://iversity.com/)
+* [EMMA](http://platform.europeanmoocs.eu/)
 
 ####MOOCs: others
 * [Udacity](https://udacity.com)
