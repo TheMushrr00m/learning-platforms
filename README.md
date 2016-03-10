@@ -7,6 +7,7 @@
 * [futurelearn](https://futurelearn.com)
 * [NPTEL](https://http://nptel.ac.in/)
 * [saylor](https://saylor.org)
+* [stanford online](https://http://online.stanford.edu/)
 
 ####MOOCs: others
 * [udacity](https://udacity.com)
