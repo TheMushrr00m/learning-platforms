@@ -15,6 +15,7 @@
 ####MOOCs: others
 * [Udacity](https://udacity.com)
 * [OpenClassrooms](https://https://openclassrooms.com/)
+* [World Science U](http://www.worldscienceu.com/)
 
 ####Interactive learning:
 * [Khan Academy](https://khanacademy.org)
