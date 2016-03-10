@@ -16,6 +16,7 @@
 * [Udacity](https://udacity.com)
 * [OpenClassrooms](https://https://openclassrooms.com/)
 * [World Science U](http://www.worldscienceu.com/)
+* [Complexity Explorer](http://www.complexityexplorer.org/)
 
 ####Interactive learning:
 * [Khan Academy](https://khanacademy.org)
