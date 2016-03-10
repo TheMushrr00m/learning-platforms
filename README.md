@@ -1,4 +1,5 @@
-# A list of learning-platforms. Platforms must provide learning material for free, either partially or completely.
+# A list of learning-platforms.
+###Platforms must provide learning material for free, either partially or completely.
 
 ####MOOCs: formal courses
 [edX](https://edx.org)
