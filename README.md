@@ -33,3 +33,6 @@
 ####Programming:
 * [CodeSchool](https://codeschool.com)
 * [TeamTreeHouse](https://teamtreehouse.com)
+
+####Trading:
+* [FX Academy](http://www.fxacademy.com/)
