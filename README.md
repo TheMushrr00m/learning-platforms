@@ -5,7 +5,8 @@
 [edX](https://edx.org)
 [coursera](https://coursera.org)
 [futurelearn](https://futurelearn.com)
-[NPTEL](http://http://nptel.ac.in/)
+[NPTEL](https://http://nptel.ac.in/)
+[saylor](https://saylor.org)
 
 ####MOOCs: others
 [udacity](https://udacity.com)
