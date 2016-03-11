@@ -47,3 +47,6 @@
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Open SAP](https://open.sap.com)
 * [Open HPI](https://open.hpi.de/)
+
+####Languages:
+* [DuoLingo](https://www.duolingo.com/)
