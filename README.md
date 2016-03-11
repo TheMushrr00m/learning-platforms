@@ -25,6 +25,8 @@
 
 ####Coding bootcamps:
 * [FreeCodeCamp](https://freecodecamp.com)
+* [The Odin Project](http://www.theodinproject.com/)
+* [Bento tracks](https://www.bento.io/tracks)
 
 ####Security:
 * [Cybrary](https://www.cybrary.it/)
