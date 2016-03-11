@@ -42,3 +42,6 @@
 
 ####Trading:
 * [FX Academy](http://www.fxacademy.com/)
+
+####Vendor-spesific:
+* [Microsoft Virtual Academy](https://mva.microsoft.com/)
