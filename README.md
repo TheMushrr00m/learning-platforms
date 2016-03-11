@@ -45,6 +45,7 @@
 * [TheCodePlayer](http://thecodeplayer.com/)
 * [CodeAvengers](https://www.codeavengers.com/)
 * [CodeHS](https://codehs.com/)
+* [Code.org](https://code.org/)
 
 ####Trading:
 * [FX Academy](http://www.fxacademy.com/)
