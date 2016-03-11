@@ -61,3 +61,9 @@
 
 ####Languages:
 * [DuoLingo](https://www.duolingo.com/)
+
+####Ruby:
+* [TryRuby](http://tryruby.org/)
+
+####HTML:
+* [HTML5 Rocks](http://www.html5rocks.com/en/)
