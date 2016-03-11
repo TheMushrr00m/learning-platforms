@@ -46,6 +46,7 @@
 * [CodeAvengers](https://www.codeavengers.com/)
 * [CodeHS](https://codehs.com/)
 * [Code.org](https://code.org/)
+* [Learnaroo](https://www.learneroo.com/)
 
 ####Trading:
 * [FX Academy](http://www.fxacademy.com/)
