@@ -79,3 +79,6 @@
 
 ####Javascript:
 * [Eloquent Javascript](http://eloquentjavascript.net/)
+
+####Java:
+* [Greenfoot](http://www.greenfoot.org/overview)
