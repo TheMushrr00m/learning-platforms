@@ -72,6 +72,7 @@
 * [TryRuby](http://tryruby.org/)
 * [RubyMonk](https://rubymonk.com/)
 * [RubyKoans](http://rubykoans.com/)
+* [IWantToLearnRuby](http://iwanttolearnruby.com/)
 
 ####R language:
 * [swirlstats](http://swirlstats.com/)
