@@ -41,6 +41,10 @@
 ####Programming:
 * [CodeSchool](https://codeschool.com)
 * [TeamTreeHouse](https://teamtreehouse.com)
+* [GA Dash](https://dash.generalassemb.ly/)
+* [TheCodePlayer](http://thecodeplayer.com/)
+* [CodeAvengers](https://www.codeavengers.com/)
+* [CodeHS](https://codehs.com/)
 
 ####Trading:
 * [FX Academy](http://www.fxacademy.com/)
@@ -50,6 +54,9 @@
 * [Open SAP](https://open.sap.com)
 * [Open HPI](https://open.hpi.de/)
 * [MongoDB University](https://university.mongodb.com/)
+
+####SQL:
+* [SQLZoo](http://sqlzoo.net/)
 
 ####Languages:
 * [DuoLingo](https://www.duolingo.com/)
