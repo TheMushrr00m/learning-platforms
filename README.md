@@ -91,3 +91,6 @@
 
 ####C++:
 * [learncpp](http://www.learncpp.com/)
+
+####Python:
+* [Python](http://docs.python-guide.org/en/latest/intro/learning/)
