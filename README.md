@@ -65,6 +65,7 @@
 
 ####Ruby:
 * [TryRuby](http://tryruby.org/)
+* [RubyMonk](https://rubymonk.com/)
 
 ####HTML:
 * [HTML5 Rocks](http://www.html5rocks.com/en/)
