@@ -48,6 +48,7 @@
 * [Code.org](https://code.org/)
 * [Learnaroo](https://www.learneroo.com/)
 * [Sololearn](http://www.sololearn.com/)
+* [Codecademy](https://www.codecademy.com/)
 
 ####Trading:
 * [FX Academy](http://www.fxacademy.com/)
@@ -67,6 +68,10 @@
 ####Ruby:
 * [TryRuby](http://tryruby.org/)
 * [RubyMonk](https://rubymonk.com/)
+* [RubyKoans](http://rubykoans.com/)
+
+####R language:
+* [swirlstats](http://swirlstats.com/)
 
 ####HTML:
 * [HTML5 Rocks](http://www.html5rocks.com/en/)
