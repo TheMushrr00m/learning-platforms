@@ -94,3 +94,6 @@
 
 ####Python:
 * [Python](http://docs.python-guide.org/en/latest/intro/learning/)
+
+####Problem solving:
+* [Art Of Problem Solving](http://www.artofproblemsolving.com/)
