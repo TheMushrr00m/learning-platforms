@@ -49,6 +49,7 @@
 * [Learnaroo](https://www.learneroo.com/)
 * [Sololearn](http://www.sololearn.com/)
 * [Codecademy](https://www.codecademy.com/)
+* [Programmr](http://www.programmr.com/)
 
 ####Trading:
 * [FX Academy](http://www.fxacademy.com/)
@@ -75,3 +76,6 @@
 
 ####HTML:
 * [HTML5 Rocks](http://www.html5rocks.com/en/)
+
+####Javascript:
+* [Eloquent Javascript](http://eloquentjavascript.net/)
