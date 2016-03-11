@@ -51,6 +51,7 @@
 * [Codecademy](https://www.codecademy.com/)
 * [Programmr](http://www.programmr.com/)
 * [Codementor](https://www.codementor.io/)
+* [SnoopCode](http://www.snoopcode.com/)
 
 ####Trading:
 * [FX Academy](http://www.fxacademy.com/)
