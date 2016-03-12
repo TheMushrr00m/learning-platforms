@@ -96,6 +96,18 @@
 
 ####Python:
 * [Python](http://docs.python-guide.org/en/latest/intro/learning/)
+* [Python Tutor](http://pythontutor.com/)
 
 ####Problem solving:
 * [Art Of Problem Solving](http://www.artofproblemsolving.com/)
+
+####Coding challenges:
+* [HackerRank](https://www.hackerrank.com/)
+* [Topcoder](https://www.topcoder.com/)
+* [Coderbyte](https://coderbyte.com/)
+* [Codewars](http://www.codewars.com/)
+* [CodeFights](https://codefights.com/)
+* [Regex Crossword](https://regexcrossword.com/)
+* [Fight Code](http://fightcodegame.com/)
+* [CodeChef](https://www.codechef.com/)
+* [CodeEval](https://www.codeeval.com/)
