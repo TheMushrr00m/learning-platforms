@@ -22,6 +22,7 @@
 
 ####Interactive learning:
 * [Khan Academy](https://khanacademy.org)
+* [SchoolYourself](http:schoolyourself.org)
 
 ####Coding bootcamps:
 * [FreeCodeCamp](https://freecodecamp.com)
