@@ -27,6 +27,7 @@
 * [FreeCodeCamp](https://freecodecamp.com)
 * [The Odin Project](http://www.theodinproject.com/)
 * [Bento tracks](https://www.bento.io/tracks)
+* [SpringBoard](https://www.springboard.com/)
 
 ####Security:
 * [Cybrary](https://www.cybrary.it/)
@@ -34,7 +35,6 @@
 ####Data science:
 * [DataCamp](https://datacamp.com)
 * [DataQuest](https://dataquest.io)
-* [SpringBoard](https://www.springboard.com/)
 
 ####Big data:
 * [Big Data University](https://bigdatauniversity.com/)
