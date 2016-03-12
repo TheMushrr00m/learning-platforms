@@ -84,6 +84,11 @@
 
 ####Javascript:
 * [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Learn JS](http://www.learn-js.org/)
+* [Javascript Koans](https://github.com/mrdavidlaing/javascript-koans)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [wtfjs](http://wtfjs.com/)
 
 ####Java:
 * [Greenfoot](http://www.greenfoot.org/overview)
