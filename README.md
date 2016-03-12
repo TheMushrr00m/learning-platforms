@@ -35,6 +35,7 @@
 ####Data science:
 * [DataCamp](https://datacamp.com)
 * [DataQuest](https://dataquest.io)
+* [Open Source Data Science Masters](https://github.com/datasciencemasters)
 
 ####Big data:
 * [Big Data University](https://bigdatauniversity.com/)
