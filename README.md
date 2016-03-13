@@ -97,9 +97,6 @@
 ####Java:
 * [Greenfoot](http://www.greenfoot.org/overview)
 
-####Project-based:
-* [Code 4 Startup](https://code4startup.com/)
-
 ####C++:
 * [learncpp](http://www.learncpp.com/)
 
