@@ -118,3 +118,6 @@
 * [Fight Code](http://fightcodegame.com/)
 * [CodeChef](https://www.codechef.com/)
 * [CodeEval](https://www.codeeval.com/)
+
+####Design:
+* [HackDesign](https://hackdesign.org/)
