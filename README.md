@@ -32,6 +32,7 @@
 
 ####Security:
 * [Cybrary](https://www.cybrary.it/)
+* [Hacksplaining](https://www.hacksplaining.com)
 
 ####Data science:
 * [DataCamp](https://datacamp.com)
