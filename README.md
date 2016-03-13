@@ -56,6 +56,7 @@
 * [Codementor](https://www.codementor.io/)
 * [SnoopCode](http://www.snoopcode.com/)
 * [Thinkster](https://thinkster.io/)
+* [Code4Startup](https://code4startup.com/)
 
 ####Trading:
 * [FX Academy](http://www.fxacademy.com/)
@@ -81,8 +82,9 @@
 ####R language:
 * [swirlstats](http://swirlstats.com/)
 
-####HTML:
+####HTML/CSS:
 * [HTML5 Rocks](http://www.html5rocks.com/en/)
+* [CSS Tricks: The Lodge](https://css-tricks.com/lodge/)
 
 ####Javascript:
 * [Eloquent Javascript](http://eloquentjavascript.net/)
