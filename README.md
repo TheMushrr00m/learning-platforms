@@ -36,6 +36,7 @@
 * [Hack This Site!](https://www.hackthissite.org/missions/)
 
 ####CLI/Terminal
+* [Command Line Power User](http://commandlinepoweruser.com/)
 
 ####Data science:
 * [DataCamp](https://datacamp.com)
