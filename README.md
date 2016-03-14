@@ -35,6 +35,8 @@
 * [Hacksplaining](https://www.hacksplaining.com)
 * [Hack This Site!](https://www.hackthissite.org/missions/)
 
+####CLI/Terminal
+
 ####Data science:
 * [DataCamp](https://datacamp.com)
 * [DataQuest](https://dataquest.io)
