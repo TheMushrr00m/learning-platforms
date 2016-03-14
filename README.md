@@ -35,7 +35,7 @@
 * [Hacksplaining](https://www.hacksplaining.com)
 * [Hack This Site!](https://www.hackthissite.org/missions/)
 
-####CLI/Terminal
+####CLI/Terminal:
 * [Command Line Power User](http://commandlinepoweruser.com/)
 
 ####Data science:
