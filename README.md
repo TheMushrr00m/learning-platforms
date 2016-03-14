@@ -33,6 +33,10 @@
 ####Security:
 * [Cybrary](https://www.cybrary.it/)
 * [Hacksplaining](https://www.hacksplaining.com)
+* [Hack This Site!](https://www.hackthissite.org/missions/)
+
+####CLI/Terminal
+* [Command Line Power User](http://commandlinepoweruser.com/)
 
 ####Data science:
 * [DataCamp](https://datacamp.com)
@@ -62,7 +66,7 @@
 ####Trading:
 * [FX Academy](http://www.fxacademy.com/)
 
-####Vendor-spesific:
+####Vendor-specific:
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Open SAP](https://open.sap.com)
 * [Open HPI](https://open.hpi.de/)
@@ -86,6 +90,7 @@
 ####HTML/CSS:
 * [HTML5 Rocks](http://www.html5rocks.com/en/)
 * [CSS Tricks: The Lodge](https://css-tricks.com/lodge/)
+* [What the Flexbox?!](http://flexbox.io/)
 
 ####Javascript:
 * [Eloquent Javascript](http://eloquentjavascript.net/)
