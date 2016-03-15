@@ -100,6 +100,7 @@
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [wtfjs](http://wtfjs.com/)
+* [learnyounode](https://github.com/workshopper/learnyounode)
 
 ####Java:
 * [Greenfoot](http://www.greenfoot.org/overview)
