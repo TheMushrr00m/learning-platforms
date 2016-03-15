@@ -91,6 +91,7 @@
 * [HTML5 Rocks](http://www.html5rocks.com/en/)
 * [CSS Tricks: The Lodge](https://css-tricks.com/lodge/)
 * [What the Flexbox?!](http://flexbox.io/)
+* [The Sass Way: Guides and Tutorials](http://thesassway.com/guides)
 
 ####Javascript:
 * [Eloquent Javascript](http://eloquentjavascript.net/)
