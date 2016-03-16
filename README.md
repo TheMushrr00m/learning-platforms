@@ -37,6 +37,7 @@
 
 ####CLI/Terminal:
 * [Command Line Power User](http://commandlinepoweruser.com/)
+* [CLI Cheat Sheet](https://github.com/WebDevStudios/CLI-Cheat-Sheet)
 
 ####Data science:
 * [DataCamp](https://datacamp.com)
