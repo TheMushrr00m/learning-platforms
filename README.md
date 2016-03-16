@@ -101,6 +101,7 @@
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [wtfjs](http://wtfjs.com/)
 * [learnyounode](https://github.com/workshopper/learnyounode)
+* [JS Bits](https://github.com/vasanthk/js-bits)
 
 ####Java:
 * [Greenfoot](http://www.greenfoot.org/overview)
