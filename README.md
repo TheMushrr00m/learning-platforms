@@ -37,6 +37,7 @@
 
 ####CLI/Terminal:
 * [Command Line Power User](http://commandlinepoweruser.com/)
+* [CLI Cheat Sheet](https://github.com/WebDevStudios/CLI-Cheat-Sheet)
 
 ####Data science:
 * [DataCamp](https://datacamp.com)
@@ -102,6 +103,7 @@
 * [wtfjs](http://wtfjs.com/)
 * [learnyounode](https://github.com/workshopper/learnyounode)
 * [JS Bits](https://github.com/vasanthk/js-bits)
+* [egghead.io](https://egghead.io/)
 
 ####Java:
 * [Greenfoot](http://www.greenfoot.org/overview)
