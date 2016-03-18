@@ -131,3 +131,6 @@
 
 ####Design:
 * [HackDesign](https://hackdesign.org/)
+
+####Markdown:
+* [Mastering Markdown](http://masteringmarkdown.com/)
