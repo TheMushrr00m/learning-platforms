@@ -85,6 +85,7 @@
 * [RubyMonk](https://rubymonk.com/)
 * [RubyKoans](http://rubykoans.com/)
 * [IWantToLearnRuby](http://iwanttolearnruby.com/)
+* [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 
 ####R language:
 * [swirlstats](http://swirlstats.com/)
