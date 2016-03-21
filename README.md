@@ -106,6 +106,12 @@
 * [learnyounode](https://github.com/workshopper/learnyounode)
 * [JS Bits](https://github.com/vasanthk/js-bits)
 * [egghead.io](https://egghead.io/)
+* [Functional Programming in Javascript](http://reactivex.io/learnrx/)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Mostly Adequate Guide to Function Programming (in JS)](https://github.com/MostlyAdequate/mostly-adequate-guide)
+* [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+* [Object Oriented Javascript](https://www.udacity.com/course/object-oriented-javascript--ud015)
+* [Javascript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 
 ####Java:
 * [Greenfoot](http://www.greenfoot.org/overview)
