@@ -64,6 +64,7 @@
 * [SnoopCode](http://www.snoopcode.com/)
 * [Thinkster](https://thinkster.io/)
 * [Code4Startup](https://code4startup.com/)
+* [hack.guides()](http://tutorials.pluralsight.com/)
 
 ####Trading:
 * [FX Academy](http://www.fxacademy.com/)
