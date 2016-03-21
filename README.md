@@ -37,6 +37,7 @@
 
 ####CLI/Terminal:
 * [Command Line Power User](http://commandlinepoweruser.com/)
+* [Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial)
 * [CLI Cheat Sheet](https://github.com/WebDevStudios/CLI-Cheat-Sheet)
 
 ####Data science:
@@ -63,6 +64,7 @@
 * [SnoopCode](http://www.snoopcode.com/)
 * [Thinkster](https://thinkster.io/)
 * [Code4Startup](https://code4startup.com/)
+* [hack.guides()](http://tutorials.pluralsight.com/)
 
 ####Trading:
 * [FX Academy](http://www.fxacademy.com/)
@@ -84,6 +86,7 @@
 * [RubyMonk](https://rubymonk.com/)
 * [RubyKoans](http://rubykoans.com/)
 * [IWantToLearnRuby](http://iwanttolearnruby.com/)
+* [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 
 ####R language:
 * [swirlstats](http://swirlstats.com/)
@@ -104,6 +107,12 @@
 * [learnyounode](https://github.com/workshopper/learnyounode)
 * [JS Bits](https://github.com/vasanthk/js-bits)
 * [egghead.io](https://egghead.io/)
+* [Functional Programming in Javascript](http://reactivex.io/learnrx/)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Mostly Adequate Guide to Function Programming (in JS)](https://github.com/MostlyAdequate/mostly-adequate-guide)
+* [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+* [Object Oriented Javascript](https://www.udacity.com/course/object-oriented-javascript--ud015)
+* [Javascript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 
 ####Java:
 * [Greenfoot](http://www.greenfoot.org/overview)
@@ -134,3 +143,11 @@
 
 ####Markdown:
 * [Mastering Markdown](http://masteringmarkdown.com/)
+
+####Git:
+* [Git Immersion](http://gitimmersion.com/)
+* [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/)
+* [Learn Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial)
+* [GitHowTo](https://githowto.com/)
+* [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+* [Git-it](https://github.com/jlord/git-it)
