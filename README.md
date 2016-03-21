@@ -134,3 +134,11 @@
 
 ####Markdown:
 * [Mastering Markdown](http://masteringmarkdown.com/)
+
+####Git:
+* [Git Immersion](http://gitimmersion.com/)
+* [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/)
+* [Learn Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial)
+* [GitHowTo](https://githowto.com/)
+* [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+* [Git-it](https://github.com/jlord/git-it)
