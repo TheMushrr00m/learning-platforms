@@ -37,6 +37,7 @@
 
 ####CLI/Terminal:
 * [Command Line Power User](http://commandlinepoweruser.com/)
+* [Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial)
 * [CLI Cheat Sheet](https://github.com/WebDevStudios/CLI-Cheat-Sheet)
 
 ####Data science:
