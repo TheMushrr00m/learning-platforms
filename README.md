@@ -150,4 +150,4 @@
 * [Learn Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial)
 * [GitHowTo](https://githowto.com/)
 * [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
-* [Git-it](https://github.com/jlord/git-it)
+* [Git-it](http://jlord.us/git-it/)
