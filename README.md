@@ -38,12 +38,10 @@
 ####CLI/Terminal:
 * [Command Line Power User](http://commandlinepoweruser.com/)
 * [Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial)
-* [CLI Cheat Sheet](https://github.com/WebDevStudios/CLI-Cheat-Sheet)
 
 ####Data science:
 * [DataCamp](https://datacamp.com)
 * [DataQuest](https://dataquest.io)
-* [Open Source Data Science Masters](https://github.com/datasciencemasters)
 
 ####Big data:
 * [Big Data University](https://bigdatauniversity.com/)
@@ -100,19 +98,11 @@
 ####Javascript:
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Learn JS](http://www.learn-js.org/)
-* [Javascript Koans](https://github.com/mrdavidlaing/javascript-koans)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [wtfjs](http://wtfjs.com/)
-* [learnyounode](https://github.com/workshopper/learnyounode)
-* [JS Bits](https://github.com/vasanthk/js-bits)
 * [egghead.io](https://egghead.io/)
 * [Functional Programming in Javascript](http://reactivex.io/learnrx/)
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-* [Mostly Adequate Guide to Function Programming (in JS)](https://github.com/MostlyAdequate/mostly-adequate-guide)
-* [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
-* [Object Oriented Javascript](https://www.udacity.com/course/object-oriented-javascript--ud015)
-* [Javascript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 
 ####Java:
 * [Greenfoot](http://www.greenfoot.org/overview)
