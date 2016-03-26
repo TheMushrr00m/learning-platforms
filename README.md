@@ -20,6 +20,7 @@
 * [Complexity Explorer](http://www.complexityexplorer.org/)
 * [Canvas](http://canvas.net/)
 * [ALISON](http://alison.com/)
+* [Udemy](http://udemy.com)
 
 ####Interactive learning:
 * [Khan Academy](https://khanacademy.org)
