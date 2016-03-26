@@ -11,6 +11,7 @@
 * [FUN](https://www.fun-mooc.fr/) (mostly in french, but some in english as well)
 * [Iversity](http://iversity.com/)
 * [EMMA](http://platform.europeanmoocs.eu/)
+* [OpenEducation by BlackBoard](https://openeducation.blackboard.com)
 
 ####MOOCs: others
 * [Udacity](https://udacity.com)
