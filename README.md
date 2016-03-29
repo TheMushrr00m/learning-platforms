@@ -12,6 +12,7 @@
 * [Iversity](http://iversity.com/)
 * [EMMA](http://platform.europeanmoocs.eu/)
 * [OpenEducation by BlackBoard](https://openeducation.blackboard.com)
+* [NovoEd](https://novoed.com/)
 
 ####MOOCs: others
 * [Udacity](https://udacity.com)
