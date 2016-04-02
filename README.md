@@ -146,6 +146,6 @@
 * [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
 * [Git-it](http://jlord.us/git-it/)
 
-#### IT / Cloud / Misc IT:
+#### IT / Cloud / Misc:
 * [Qwik Labs](https://qwiklabs.com/)
 * [Cloud Academy](https://cloudacademy.com)
