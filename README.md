@@ -22,7 +22,7 @@
 * [Canvas](http://canvas.net/)
 * [ALISON](http://alison.com/)
 * [Udemy](http://udemy.com)
-
+* [Complexity Academy](http://complexityacademy.io/)
 ####Interactive learning:
 * [Khan Academy](https://khanacademy.org)
 * [SchoolYourself](http:schoolyourself.org)
