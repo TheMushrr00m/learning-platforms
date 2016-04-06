@@ -108,6 +108,7 @@
 * [wtfjs](http://wtfjs.com/)
 * [egghead.io](https://egghead.io/)
 * [Functional Programming in Javascript](http://reactivex.io/learnrx/)
+* [Frontend Masters](https://frontendmasters.com/)
 
 ####Java:
 * [Greenfoot](http://www.greenfoot.org/overview)
