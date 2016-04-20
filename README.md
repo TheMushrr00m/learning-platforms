@@ -70,6 +70,7 @@
 * [hack.guides()](http://tutorials.pluralsight.com/)
 * [Aquent Gymnasium](http://gymnasium.aquent.com/)
 * [Codevolve](https://www.codevolve.com/)
+* [Outlearn](http://www.outlearn.com/)
 
 ####Trading:
 * [FX Academy](http://www.fxacademy.com/)
