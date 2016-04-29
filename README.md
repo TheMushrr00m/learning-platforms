@@ -2,17 +2,17 @@
 ####Platforms must provide learning material for free, either partially or completely.
 
 ####MOOCs: formal courses
-* [edX](edx.org)
-* [Coursera](coursera.org)
+* [edX](https://edx.org)
+* [Coursera](https://coursera.org)
 * [Futurelearn](https://futurelearn.com)
-* [NPTEL](nptel.ac.in/)
-* [Saylor](saylor.org)
+* [NPTEL](https://nptel.ac.in/)
+* [Saylor](https://saylor.org)
 * [FUN](https://www.fun-mooc.fr/) (mostly in french, but some in english as well)
-* [Iversity](iversity.org/)
-* [EMMA](platform.europeanmoocs.eu/)
-* [OpenEducation by BlackBoard](openeducation.blackboard.com)
-* [NovoEd](novoed.com/)
-* [Stanford Online](lagunita.stanford.edu/)
+* [Iversity](https://iversity.org/)
+* [EMMA](https://platform.europeanmoocs.eu/)
+* [OpenEducation by BlackBoard](https://openeducation.blackboard.com)
+* [NovoEd](https://novoed.com/)
+* [Stanford Online](https://lagunita.stanford.edu/)
 
 ####MOOCs: others
 * [Udacity](udacity.com)
