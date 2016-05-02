@@ -13,6 +13,7 @@
 * [OpenEducation by BlackBoard](https://openeducation.blackboard.com)
 * [NovoEd](https://novoed.com/)
 * [Stanford Online](https://lagunita.stanford.edu/)
+* [Open2Study](https://www.open2study.com/)
 
 ####MOOCs: others
 * [Udacity](udacity.com)
