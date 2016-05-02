@@ -24,6 +24,7 @@
 * [Udemy](http://udemy.com)
 * [Complexity Academy](http://complexityacademy.io/)
 * [OpenLearning](https://www.openlearning.com/)
+* [P2P University](https://courses.p2pu.org/en/)
 
 ####Interactive learning:
 * [Khan Academy](https://khanacademy.org)
