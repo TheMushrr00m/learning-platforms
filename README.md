@@ -23,6 +23,7 @@
 * [ALISON](http://alison.com/)
 * [Udemy](http://udemy.com)
 * [Complexity Academy](http://complexityacademy.io/)
+* [OpenLearning](https://www.openlearning.com/)
 
 ####Interactive learning:
 * [Khan Academy](https://khanacademy.org)
