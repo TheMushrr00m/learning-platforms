@@ -14,6 +14,7 @@
 * [NovoEd](https://novoed.com/)
 * [Stanford Online](https://lagunita.stanford.edu/)
 * [Open2Study](https://www.open2study.com/)
+* [Sophia](https://www.sophia.org/)
 
 ####MOOCs: others
 * [Udacity](udacity.com)
@@ -26,6 +27,7 @@
 * [Complexity Academy](http://complexityacademy.io/)
 * [OpenLearning](https://www.openlearning.com/)
 * [P2P University](https://courses.p2pu.org/en/)
+* [SkillShare](https://www.skillshare.com/)
 
 ####Interactive learning:
 * [Khan Academy](https://khanacademy.org)
